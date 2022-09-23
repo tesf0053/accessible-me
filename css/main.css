@@ -1,6 +1,6 @@
 body {
   font-family: 'Roboto', Helvetica, sans-serif;
-  background-color: rgba(207, 250, 250, 0.767);
+  background-color: rgba(255, 218, 236, 0.767);
   margin: 0;
   padding: 0;
 }
@@ -27,6 +27,7 @@ img {
   float: left;
   padding: 0px 20px 0 0 ;
 
+
 }
 p {
   line-height: 25px;
@@ -44,7 +45,7 @@ p {
 }
 
 #main-nav{
-  background-color: rgb(9, 141, 105);
+  background-color:rgb(189, 48, 95);
   height: 50px;
   margin: 10px 10px 10px 0;
   width: 100%;
@@ -73,7 +74,7 @@ p {
 
 #main-nav a:hover{
   background: white;
-  color: rgb(9, 141, 105);
+  color: rgb(213, 16, 82);
   width: 100%;
   transition: .5s;
   
@@ -85,7 +86,7 @@ p {
 form input,
 form textarea {
   display: block;
-  border-color:  rgb(9, 141, 105);
+  border-color: rgb(189, 48, 95);
   width: 100%;
   margin-bottom: 1rem;
   padding: .5rem 1rem;
@@ -106,7 +107,7 @@ form button {
   text-transform: uppercase;
 }
 form button:hover{
-  background-color: rgb(9, 141, 105);
+  background-color: rgb(189, 48, 95);
   color: white;
 }
 .site-footer {
